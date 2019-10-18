@@ -14,7 +14,7 @@ I have visualized data for whole quarters of 2018/2019. Specifically, and have c
 During this project, I have analyzed, prepared, and ploted data. My visualizations can help asses the risk of the Spotify stock.
 As the last step I have created a presentation to share.
 
-Se files:
+View files:
 + Spotify Stock Profile 2018-2019.pdf
 + spotify_visualizations.py
 
