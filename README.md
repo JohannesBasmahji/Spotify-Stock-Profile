@@ -11,7 +11,7 @@ I have visualized data for whole quarters of 2018/2019. Specifically, and have c
 + A comparison of the Spotify Stock price vs the Dow Jones Industrial Average price
 
 
-During this project, I have analyzed, prepared, and ploted data. My visualizations can help asses the risk of the Spotify stock.
+During this project, I have analyzed, prepared, and plotted data. My visualizations can help assess the risk of the Spotify stock.
 As the last step I have created a presentation to share.
 
 View files:
