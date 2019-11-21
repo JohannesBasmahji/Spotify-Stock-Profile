@@ -6,7 +6,7 @@
 # In this project, I will use programming language Python to visualize Spotify stock data.
 # In finance, a _stock profile_ is a series of studies, visualizations, and analyses that dive into different aspects a publicly traded company's data. 
 # 
-# I will visualize data for whole quarters of 2018/2019. Specifically, and will creating the following visualizations:
+# I will visualize data for whole quarters of 2018/2019. Specifically, I will be creating the following visualizations:
 # + The distribution of the stock prices for the past quarters
 # + The actual vs. estimated earnings per share for the past quarters in 2018/2019
 # + Spotify's earnings and revenue in the last quarters
